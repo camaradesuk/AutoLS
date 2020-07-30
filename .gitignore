@@ -1,0 +1,8 @@
+# Files built by Visual Studio
+**/bin
+**/obj
+
+# .NET Core
+**/appsettings.json
+**/appsettings.*.json
+**/Properties/launchSetting.json
