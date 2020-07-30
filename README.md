@@ -6,3 +6,8 @@ AutoLS is a tool to search and retrieve study references from different biomed
 
 ## Technologies
 AutoLS is available as an independently deployable project. It is written using .NET Core 3.1 and C# language. It can be used as a microservice endpoint.
+
+#### Tools are created using:
+- MassTransit 6.2.4
+- HtmlAgilityPack 1.11.23
+- RabbitMQ 3.8.3
